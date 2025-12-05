@@ -19,3 +19,9 @@ PINATTR SpiceOrder 2
 PIN 64 0 NONE 8
 PINATTR PinName y
 PINATTR SpiceOrder 3
+PIN -32 -48 NONE 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 4
+PIN -32 48 NONE 8
+PINATTR PinName Vneg
+PINATTR SpiceOrder 5
